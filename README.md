@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Max</h1>
 <h3 align="center">An uknown, multi-language dev from Russia</h3>
 
-- 🌱 I’m currently learning **C#** and **C++**
-
-- 🤝 I’m looking to collaborate on **Python projects**
-
-- 📫 You can reach me at **marmoraven@gmail.com**
-
-- ⚡ P.S **readme generator is cringe, but emojis are cool**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14670784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14670784" height="30" width="40" /></a>
