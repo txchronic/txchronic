@@ -1,10 +1,4 @@
 name: Metrics
- Check failure on line 1 in .github/workflows/metrics.yml
-
-GitHub Actions
-/ github-metrics
-.github/workflows/metrics.yml#L1
-This run was manually canceled.
 on:
   schedule: [{cron: "0 0 * * *"}]
   push: {branches: ["master", "main"]}
